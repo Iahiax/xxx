@@ -1,1 +1,6 @@
-
+{
+  "settings": {
+    "codespaces.ramLimit": "4GB", // تحديد حجم الذاكرة
+    "codespaces.cpuLimit": "4"    // تحديد عدد المعالجات
+  }
+}
